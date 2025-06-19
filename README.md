@@ -1,4 +1,5 @@
 # libraryvisitinstructions
+### Because this isn't just me running this.. I used AI to do the markdown for me, I had to correct a lot of the instructions as it convereted my instructions.
 
 ## Monday – Grades K–2
 
